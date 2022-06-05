@@ -32,7 +32,7 @@
         "type": "string"
       }
     ],
-    "name": "NewGreet",
+    "name": "GreetingChanged",
     "type": "event"
   },
   {

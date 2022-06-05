@@ -1,4 +1,5 @@
 type Greeting @entity {
-  block: Bytes!
+  id: String!
+  lastUpdated: BigInt!
   message: String!
 }
