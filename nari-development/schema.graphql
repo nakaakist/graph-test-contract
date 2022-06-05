@@ -1,5 +1,4 @@
-type ExampleEntity @entity {
-  id: ID!
+type Greeting @entity {
   block: Bytes!
-  count: BigInt!
+  message: String!
 }
